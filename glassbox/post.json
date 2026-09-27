@@ -1,0 +1,126 @@
+{
+  "slug": "pianoclear",
+  "box": 6,
+  "question": "How does a piano work?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/pianoclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/pianoclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "2,500 years from one plucked string to the grand piano, the player piano and the digital keyboard.\n\n530 BCE: One string, many notes\n1700: A harpsichord that plays soft and loud\n1711: The piano's first diagram\n1777: Mozart loves Stein's escapement\n1817: Beethoven's pianos\n1821: The double escapement\n\nThe full story, with 30 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/pianoclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/pianoclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #piano #grandpiano #pianoaction #escapement #stringvibration #harmonics #history",
+      "youtube": {
+        "title": "The history of the piano in 45 seconds #shorts",
+        "description": "2,500 years from one plucked string to the grand piano, the player piano and the digital keyboard.\n\n530 BCE · One string, many notes (Pythagoras (attributed))\n1700 · A harpsichord that plays soft and loud (Bartolomeo Cristofori)\n1711 · The piano's first diagram (Scipione Maffei)\n1777 · Mozart loves Stein's escapement (Johann Andreas Stein and W.A. Mozart)\n1817 · Beethoven's pianos (Ludwig van Beethoven, Érard and Broadwood)\n1821 · The double escapement (Sébastien and Pierre Érard)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/pianoclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/pianoclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a piano work?\n\nPress a key and a chain of levers flings a felt hammer at steel strings pulling with nearly 20 tonnes. Take a grand piano apart in 3D, slow the hammer down 50 times, and play it yourself.\n\n→ A grand piano is 88 keys, 88 hammers, about 230 strings and a big wooden soundboard.\n→ Its strings pull with nearly 20 tonnes, so a cast-iron plate holds them tight.\n→ Press a key and a chain of levers flings a felt hammer up at the string.\n→ Just before it hits, the jack slips away, so the hammer flies free and bounces off.\n→ A struck string vibrates as a whole, and in halves, thirds and quarters at the same time.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/pianoclear (link in bio)\n\nBox No. 006 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #piano #grandpiano #pianoaction #escapement #stringvibration #harmonics #soundboard #equaltemperament #pedals",
+    "carousel": "Swipe through: How does a piano work?\n\nPress a key and a chain of levers flings a felt hammer at steel strings pulling with nearly 20 tonnes. Take a grand piano apart in 3D, slow the hammer down 50 times, and play it yourself.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/pianoclear (link in bio).\n\nBox No. 006 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #piano #grandpiano #pianoaction #escapement #stringvibration #harmonics",
+    "youtube": {
+      "title": "How does a piano work? #shorts",
+      "description": "Press a key and a chain of levers flings a felt hammer at steel strings pulling with nearly 20 tonnes. Take a grand piano apart in 3D, slow the hammer down 50 times, and play it yourself.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/pianoclear/\n⌘ Source code (MIT): https://github.com/bdeeps/pianoclear\n\nBox No. 006 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a piano work? (interactive explainer)",
+      "description": "Press a key and a chain of levers flings a felt hammer at steel strings pulling with nearly 20 tonnes. Take a grand piano apart in 3D, slow the hammer down 50 times, and play it yourself.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/pianoclear/\n⌘ Source code (MIT): https://github.com/bdeeps/pianoclear\n\nIn this video:\n• Hammers, strings and a wooden board. A piano is a string instrument played with hammers.\n• A chain of levers that lets go. The key lifts a lever called the wippen, which pushes the hammer up through a jack.\n• Length, tension and weight set the note. A string's frequency is f = (1/2L)·√(T/μ): halve the length for one octave up, or pull four times as hard.\n• The soundboard makes it loud. A string is too thin to push much air, so on its own it is nearly silent.\n• 88 keys, each 1.0595 times the last. From A0 at 27.5 Hz to C8 at 4,186 Hz, with A4 tuned to 440 Hz.\n• Soft, loud, and three pedals. Press faster and the hammer flies faster: louder, and brighter because the felt touches the string for less time.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a piano work?\n\nPress a key and a chain of levers flings a felt hammer at steel strings pulling with nearly 20 tonnes.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/pianoclear/",
+    "linkedin": "How does a piano work?\n\nPress a key and a chain of levers flings a felt hammer at steel strings pulling with nearly 20 tonnes. Take a grand piano apart in 3D, slow the hammer down 50 times, and play it yourself.\n\n1. Hammers, strings and a wooden board\n2. A chain of levers that lets go\n3. Length, tension and weight set the note\n4. The soundboard makes it loud\n5. 88 keys, each 1.0595 times the last\n6. Soft, loud, and three pedals\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 006 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/pianoclear/\nCode: https://github.com/bdeeps/pianoclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-27T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-27T05:45:47.430Z"
+}

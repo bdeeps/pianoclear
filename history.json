@@ -1,0 +1,1045 @@
+{
+  "title": "The history of the piano",
+  "tagline": "2,500 years from one plucked string to the grand piano, the player piano and the digital keyboard.",
+  "intro": "For centuries, keyboards could not play both soft and loud: a harpsichord plucks its strings the same way however hard you press. Around 1700 in Florence, Bartolomeo Cristofori made hammers strike the strings, and the harder you pressed, the louder it played. Over the next 200 years makers added faster actions, iron frames, crossed strings and 88 keys, and then pianos learned to play themselves, go electric and go digital.",
+  "eras": [
+    {
+      "id": "ancient",
+      "name": "Strings, pipes and plucks",
+      "from": -550,
+      "to": 1700,
+      "color": "#c49bff",
+      "summary": "People learn how strings make notes, and build keyboards that blow pipes, touch strings with metal blades or pluck them with quills. None of them can play both loud and soft."
+    },
+    {
+      "id": "invention",
+      "name": "Soft and loud",
+      "from": 1700,
+      "to": 1760,
+      "color": "#ffb547",
+      "summary": "In Florence, Bartolomeo Cristofori makes strings sing with hammers, so the harder you press, the louder the note. A magazine article spreads the idea to Germany."
+    },
+    {
+      "id": "fortepiano",
+      "name": "The fortepiano age",
+      "from": 1760,
+      "to": 1830,
+      "color": "#ff7a59",
+      "summary": "Workshops in Augsburg, Vienna, London and Paris race to build lighter, louder, bigger pianos for Mozart, Beethoven and a growing public."
+    },
+    {
+      "id": "iron",
+      "name": "Iron, felt and 88 keys",
+      "from": 1821,
+      "to": 1900,
+      "color": "#5ce1a9",
+      "summary": "Fast repeating actions, cast-iron frames and crossed strings turn the piano into the powerful concert grand we know, with 88 keys."
+    },
+    {
+      "id": "boom",
+      "name": "A piano in every home",
+      "from": 1880,
+      "to": 1970,
+      "color": "#7aa2ff",
+      "summary": "Pianos play themselves from paper rolls, factories make hundreds of thousands a year, and Japan becomes the biggest piano maker in the world."
+    },
+    {
+      "id": "electric",
+      "name": "Electric and digital",
+      "from": 1930,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Pickups, tines, synthesizers and chips give the piano new voices. Digital pianos talk to computers, and China builds most of the world's new pianos."
+    }
+  ],
+  "events": [
+    {
+      "year": -530,
+      "date": "c. 6th century BCE (attributed)",
+      "era": "ancient",
+      "art": "monochord",
+      "key": true,
+      "title": "One string, many notes",
+      "who": "Pythagoras (attributed)",
+      "where": "Ancient Greece",
+      "country": "Greece",
+      "text": "A monochord is a single string stretched over a box, with a bridge you can slide. Halve the string's length and it plays a note an octave higher, vibrating twice as fast. Legend credits Pythagoras, but historians say the ideas are older, going back to Mesopotamia.",
+      "why": "Every piano string follows the same rule: shorter, tighter and thinner strings play higher notes.",
+      "box": "strings",
+      "sources": [
+        4,
+        5
+      ]
+    },
+    {
+      "year": -250,
+      "date": "3rd century BCE",
+      "era": "ancient",
+      "art": "keys",
+      "title": "The first keyboard",
+      "who": "Ctesibius of Alexandria",
+      "where": "Alexandria, Egypt",
+      "country": "Egypt",
+      "text": "Ctesibius built the hydraulis, a water organ. Hand pumps pushed air into a tank where water kept the pressure steady, and pressing a key let the air blow through a pipe. It is the earliest known keyboard instrument.",
+      "why": "The idea of a row of keys, one for each note, started here, almost 2,000 years before the piano.",
+      "sources": [
+        6,
+        0
+      ]
+    },
+    {
+      "year": 1397,
+      "date": "1397 (first mention)",
+      "era": "ancient",
+      "art": "harpsichord",
+      "title": "The harpsichord: plucked, never louder",
+      "who": "Hermann Poll (claimed inventor)",
+      "where": "Padua, Italy",
+      "country": "Italy",
+      "text": "In 1397 a lawyer in Padua wrote that a man named Hermann Poll claimed to have invented the clavicembalum. In a harpsichord each key lifts a small quill or plectrum that plucks a string. The oldest complete one that survives was made in 1521.",
+      "why": "A plucked note sounds equally loud however hard you press the key, the problem the piano was invented to solve.",
+      "box": "pedals",
+      "sources": [
+        9,
+        8
+      ]
+    },
+    {
+      "year": 1404,
+      "date": "1404 (first mention)",
+      "era": "ancient",
+      "art": "keys",
+      "title": "The clavichord's gentle touch",
+      "who": "Unknown makers",
+      "where": "German-speaking lands",
+      "country": "Germany",
+      "text": "The clavichord is first mentioned in a German poem of 1404. Each key pushes a small brass blade called a tangent up against a string, and it stays there while you hold the key. Players could even make the note wobble, but it was so quiet it only suited a small room.",
+      "why": "It let players control loudness with their fingers, but the sound was far too soft for a concert.",
+      "box": "action",
+      "sources": [
+        7
+      ]
+    },
+    {
+      "year": 1584,
+      "date": "1584",
+      "era": "ancient",
+      "art": "tuningfork",
+      "title": "Twelve equal steps",
+      "who": "Zhu Zaiyu",
+      "where": "Ming dynasty China",
+      "country": "China",
+      "text": "The Chinese prince and scholar Zhu Zaiyu worked out an accurate mathematical way to split the octave into twelve equal steps and published it in 1584. His work got little official recognition in his lifetime.",
+      "why": "Equal steps are how pianos are tuned today, so music sounds right in every key.",
+      "box": "scale",
+      "sources": [
+        10
+      ]
+    },
+    {
+      "year": 1700,
+      "date": "1700 (inventory)",
+      "era": "invention",
+      "art": "grandpiano",
+      "key": true,
+      "title": "A harpsichord that plays soft and loud",
+      "who": "Bartolomeo Cristofori",
+      "where": "Florence, Italy",
+      "country": "Italy",
+      "text": "Cristofori came to Florence in 1688 to look after the instruments of Prince Ferdinando de' Medici. A Medici inventory of 1700 lists his 'arpicembalo' of new invention that 'makes the soft and the loud'. Instead of plucking, it hit the strings with small hammers.",
+      "why": "For the first time, how hard you pressed a key decided how loud the note was.",
+      "box": "pedals",
+      "sources": [
+        1,
+        0,
+        3
+      ]
+    },
+    {
+      "year": 1711,
+      "date": "1711",
+      "era": "invention",
+      "art": "word",
+      "key": true,
+      "title": "The piano's first diagram",
+      "who": "Scipione Maffei",
+      "where": "Venice, Italy",
+      "country": "Italy",
+      "text": "The writer Scipione Maffei published an enthusiastic article about Cristofori's invention in the Giornale de' letterati d'Italia, with a drawing of the hammer mechanism. It was translated into German in 1725. Some musicians of the time still found the new sound too soft and dull.",
+      "why": "The article carried the idea across the Alps, where the next makers learned it.",
+      "box": "action",
+      "sources": [
+        11,
+        1,
+        12
+      ]
+    },
+    {
+      "year": 1720,
+      "date": "1720",
+      "era": "invention",
+      "art": "grandpiano",
+      "title": "The oldest piano in the world",
+      "who": "Bartolomeo Cristofori",
+      "where": "Florence, Italy",
+      "country": "Italy",
+      "text": "Three Cristofori pianos survive, from 1720, 1722 and 1726. The oldest is at The Metropolitan Museum of Art in New York and has 54 keys, against 88 on a modern piano. Its full name was gravicembalo col piano e forte, a harpsichord with soft and loud, later shortened to piano. It already has an escapement, which lets the hammer fly free after it strikes, and dampers that silence a string when you let go.",
+      "why": "The basic ideas inside every piano today are already in this instrument.",
+      "box": "action",
+      "sources": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "year": 1747,
+      "date": "1730s–7 May 1747",
+      "era": "invention",
+      "art": "person",
+      "title": "Bach changes his mind",
+      "who": "Gottfried Silbermann and J.S. Bach",
+      "where": "Freiberg and Potsdam, Germany",
+      "country": "Germany",
+      "text": "Silbermann built his first piano in 1732. Bach complained that its treble was weak and its keys were hard to play, so Silbermann improved it. On 7 May 1747 Bach visited Frederick the Great in Potsdam and played the king's Silbermann pianos; by 1749 he was even helping to sell one.",
+      "why": "Winning over the greatest keyboard player of the age helped the new instrument spread.",
+      "sources": [
+        12,
+        13,
+        0
+      ]
+    },
+    {
+      "year": 1777,
+      "date": "October 1777",
+      "era": "fortepiano",
+      "art": "hammer",
+      "key": true,
+      "title": "Mozart loves Stein's escapement",
+      "who": "Johann Andreas Stein and W.A. Mozart",
+      "where": "Augsburg, Germany",
+      "country": "Germany",
+      "text": "Mozart, then 21, visited Stein's workshop and wrote to his father about the pianos. He praised their escapement, saying that without it you cannot avoid jangling and vibration after a note. Stein's light, quick 'German' action became the Viennese piano action. Mozart's own piano, bought around 1782, was by Stein's Viennese rival Anton Walter.",
+      "why": "A good escapement lets the hammer bounce away cleanly, so the string can ring.",
+      "box": "action",
+      "sources": [
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "year": 1794,
+      "date": "1789–1794",
+      "era": "fortepiano",
+      "art": "keys",
+      "title": "Six octaves in London",
+      "who": "John Broadwood",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "The Scottish maker John Broadwood took over Burkat Shudi's harpsichord firm. In 1789, at the pianist Dussek's suggestion, he stretched his grand piano beyond five octaves, and by 1794 to six full octaves. English grands had a heavier action and a bigger sound than Viennese ones.",
+      "why": "Composers wrote for the notes that makers added, and makers added notes for composers.",
+      "box": "scale",
+      "sources": [
+        18,
+        0
+      ]
+    },
+    {
+      "year": 1794,
+      "date": "1794",
+      "era": "fortepiano",
+      "art": "person",
+      "title": "A woman runs a famous piano firm",
+      "who": "Nannette Streicher",
+      "where": "Vienna, Austria",
+      "country": "Austria",
+      "text": "Nannette Stein grew up in her father's workshop in Augsburg and carried it on after he died in 1792. In 1794 she moved the business to Vienna with her husband. Her firm grew to make 50 to 65 grand pianos a year, and she was a close friend of Beethoven.",
+      "why": "One of the leading piano makers of Beethoven's Vienna was a woman.",
+      "sources": [
+        20,
+        14
+      ]
+    },
+    {
+      "year": 1800,
+      "date": "1800",
+      "era": "fortepiano",
+      "art": "upright",
+      "title": "Stand the strings up",
+      "who": "John Isaac Hawkins",
+      "where": "Philadelphia, USA",
+      "country": "United States",
+      "text": "Hawkins, an English engineer living in Philadelphia, patented a piano with its strings running down to the floor, the keyboard raised above them and a complete iron frame. Thomas Jefferson bought one.",
+      "why": "An upright piano fits against a wall, so a piano could fit in an ordinary home.",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 1817,
+      "date": "1803–1818",
+      "era": "fortepiano",
+      "art": "grandpiano",
+      "key": true,
+      "title": "Beethoven's pianos",
+      "who": "Ludwig van Beethoven, Érard and Broadwood",
+      "where": "Paris, London and Vienna",
+      "country": "Austria",
+      "text": "In October 1803 Beethoven got a grand piano from the Érard firm in Paris and loved it at first. In December 1817 Thomas Broadwood sent him a six-octave grand from London. It arrived in Vienna about seven months later, and Beethoven kept it for the rest of his life.",
+      "why": "Beethoven's music pushed pianos to be louder and wider, and makers followed.",
+      "sources": [
+        19,
+        18,
+        22
+      ]
+    },
+    {
+      "year": 1821,
+      "date": "22 December 1821",
+      "era": "iron",
+      "art": "hammer",
+      "key": true,
+      "title": "The double escapement",
+      "who": "Sébastien and Pierre Érard",
+      "where": "London, England, and Paris, France",
+      "country": "France",
+      "text": "Sébastien Érard's 'double escapement' was patented in London in 1821 by his nephew Pierre. A repetition lever catches the hammer part-way, so you can play the same note again before the key has fully risen.",
+      "why": "Almost every grand piano action today is based on this design, which makes fast repeated notes possible.",
+      "box": "action",
+      "sources": [
+        24,
+        23,
+        25,
+        57
+      ]
+    },
+    {
+      "year": 1825,
+      "date": "17 December 1825",
+      "era": "iron",
+      "art": "bolt",
+      "key": true,
+      "title": "A frame of cast iron",
+      "who": "Alpheus Babcock",
+      "where": "Boston, USA",
+      "country": "United States",
+      "text": "Babcock patented a complete iron frame cast in one piece for the square piano. Wood warps and moves with heat and damp, but iron could hold the strings' huge pull steady.",
+      "why": "Iron let makers use thicker, tighter strings for a bigger sound, and all modern pianos use a one-piece metal frame.",
+      "box": "anatomy",
+      "sources": [
+        27,
+        26,
+        0
+      ]
+    },
+    {
+      "year": 1826,
+      "date": "24 January 1826",
+      "era": "fortepiano",
+      "art": "string",
+      "title": "Four strings for a deaf composer",
+      "who": "Conrad Graf",
+      "where": "Vienna, Austria",
+      "country": "Austria",
+      "text": "The Viennese maker Conrad Graf lent Beethoven a 6½-octave piano. From the note D upwards it had four strings for each key, not three, to make it louder for the deaf composer. It is now at the Beethoven-Haus in Bonn.",
+      "why": "More strings per note means more sound, which is why modern pianos use up to three.",
+      "box": "strings",
+      "sources": [
+        28,
+        29
+      ]
+    },
+    {
+      "year": 1831,
+      "date": "1831–1889",
+      "era": "iron",
+      "art": "person",
+      "title": "The pianist who played from memory",
+      "who": "Clara Schumann",
+      "where": "Leipzig, Germany, and all of Europe",
+      "country": "Germany",
+      "text": "Clara Wieck, later Schumann, gave concerts for 61 years, and more than 1,300 of her concert programmes survive. She played from memory at 13, which reviewers found remarkable, and helped make that the normal way to give a piano recital.",
+      "why": "Star pianists like her made the piano the centre of concert life.",
+      "sources": [
+        32
+      ]
+    },
+    {
+      "year": 1842,
+      "date": "1811–1842",
+      "era": "iron",
+      "art": "upright",
+      "title": "The upright action",
+      "who": "Robert Wornum",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Wornum patented a small upright in 1811 and a taller cottage piano by 1813. In 1826 and 1842 he patented actions for uprights, including a new way to work the dampers and springs to return the hammers.",
+      "why": "His design is the ancestor of the action inside most upright pianos.",
+      "box": "action",
+      "sources": [
+        30,
+        31
+      ]
+    },
+    {
+      "year": 1843,
+      "date": "1843",
+      "era": "iron",
+      "art": "bolt",
+      "title": "Iron for the grand piano",
+      "who": "Jonas Chickering",
+      "where": "Boston, USA",
+      "country": "United States",
+      "text": "Babcock worked as foreman for Chickering's firm. In 1843 Chickering patented the first full iron frame for a grand piano. By his death in 1853 the company had built more than 12,000 pianos.",
+      "why": "Iron-framed grands could fill a large hall with sound.",
+      "box": "anatomy",
+      "sources": [
+        0,
+        33,
+        34,
+        26
+      ]
+    },
+    {
+      "year": 1844,
+      "date": "1844; patented by Steinway 1874",
+      "era": "iron",
+      "art": "notes",
+      "title": "The middle pedal",
+      "who": "Boisselot & Fils, then Albert Steinway",
+      "where": "Paris, France, and New York, USA",
+      "country": "France",
+      "text": "A pedal that holds up only the dampers of keys already pressed was first shown by Boisselot & Fils at the Paris exhibition of 1844. Albert Steinway perfected and patented this sostenuto pedal in 1874.",
+      "why": "It lets a pianist hold one chord while playing other notes cleanly.",
+      "box": "pedals",
+      "sources": [
+        35,
+        0
+      ]
+    },
+    {
+      "year": 1859,
+      "date": "20 December 1859",
+      "era": "iron",
+      "art": "string",
+      "key": true,
+      "title": "Crossed strings",
+      "who": "Henry Steinway Jr., Steinway & Sons",
+      "where": "New York, USA",
+      "country": "United States",
+      "text": "Steinway & Sons was founded in a Manhattan loft on 5 March 1853. In 1859 Henry Steinway Jr. patented a grand piano with its bass strings crossing over the others at an angle, on an iron frame. That brought the bridges nearer the middle of the soundboard.",
+      "why": "Longer bass strings over the liveliest part of the soundboard gave a richer sound, and nearly every grand is built this way now.",
+      "box": "soundboard",
+      "sources": [
+        38,
+        37,
+        36,
+        0
+      ]
+    },
+    {
+      "year": 1888,
+      "date": "late 1880s",
+      "era": "iron",
+      "art": "keys",
+      "key": true,
+      "title": "Eighty-eight keys",
+      "who": "Steinway & Sons and other makers",
+      "where": "New York, USA",
+      "country": "United States",
+      "text": "For years many pianos had 85 keys, seven octaves from A to A. In the late 1880s Steinway built pianos with 88 keys, from A0 to C8, and other makers followed. By the early 1900s 88 keys was the standard around the world.",
+      "why": "88 keys covers almost every note an orchestra can play.",
+      "box": "scale",
+      "sources": [
+        40,
+        41,
+        39,
+        0
+      ]
+    },
+    {
+      "year": 1898,
+      "date": "1895–1904",
+      "era": "boom",
+      "art": "gear",
+      "key": true,
+      "title": "The piano plays itself",
+      "who": "Edwin Votey, Aeolian Company",
+      "where": "Detroit and New York, USA",
+      "country": "United States",
+      "text": "Votey finished the first Pianola in his Detroit workshop in 1895. It read a punched paper roll and used air pressure to press the keys. The Aeolian Company put it on sale in the autumn of 1898. From 1904 the German Welte-Mignon went further, replaying a real pianist's speed, loudness and pedalling.",
+      "why": "Anyone could now fill their home with piano music, even if they could not play.",
+      "sources": [
+        43,
+        42,
+        44
+      ]
+    },
+    {
+      "year": 1900,
+      "date": "1887–1902",
+      "era": "boom",
+      "art": "building",
+      "key": true,
+      "title": "The first piano made in Japan",
+      "who": "Torakusu Yamaha",
+      "where": "Hamamatsu, Japan",
+      "country": "Japan",
+      "text": "Torakusu Yamaha started out making reed organs in Hamamatsu in 1887. In 1900 his company built an upright, the first piano made in Japan, and its first grand followed in 1902.",
+      "why": "It began a Japanese piano industry that would one day lead the world.",
+      "sources": [
+        45,
+        46
+      ]
+    },
+    {
+      "year": 1909,
+      "date": "1909",
+      "era": "boom",
+      "art": "trophy",
+      "title": "The peak of the piano",
+      "who": "American piano makers",
+      "where": "United States",
+      "country": "United States",
+      "text": "Around 365,000 pianos were sold in the United States in 1909, when the country had about 90 million people. Hundreds of piano firms were founded between 1880 and 1910. Then gramophones and radio pulled buyers away.",
+      "why": "Before radio and TV, the piano was the family's home entertainment.",
+      "sources": [
+        48,
+        49
+      ]
+    },
+    {
+      "year": 1965,
+      "date": "1927–1966",
+      "era": "boom",
+      "art": "earth",
+      "title": "Japan makes the most pianos",
+      "who": "Yamaha and Kawai",
+      "where": "Hamamatsu, Japan",
+      "country": "Japan",
+      "text": "Koichi Kawai, who had learned from Torakusu Yamaha, founded his own piano company in Hamamatsu in 1927. After the war both firms grew fast, and by 1965 Yamaha was making more pianos than any other maker in the world. In 1970 it built its millionth piano.",
+      "why": "Careful factory methods made good pianos affordable for millions of families.",
+      "sources": [
+        47,
+        45
+      ]
+    },
+    {
+      "year": 1965,
+      "date": "1948–1965",
+      "era": "electric",
+      "art": "bolt",
+      "title": "Electric keys",
+      "who": "Harold Rhodes, Fender and Robert Moog",
+      "where": "California and New York, USA",
+      "country": "United States",
+      "text": "During the Second World War Harold Rhodes made small pianos for injured airmen to play in bed. His tines, struck by hammers and read by pickups, led to the Fender Rhodes electric piano in 1965; Wurlitzer's used steel reeds instead. In 1964 Robert Moog built his first synthesizer.",
+      "why": "Electric keyboards were light, loud enough for bands and gave jazz, soul and pop a new sound.",
+      "sources": [
+        51,
+        50,
+        52
+      ]
+    },
+    {
+      "year": 1983,
+      "date": "1983",
+      "era": "electric",
+      "art": "chip",
+      "key": true,
+      "title": "The digital piano and MIDI",
+      "who": "Yamaha; Dave Smith and Ikutaro Kakehashi",
+      "where": "Japan and USA",
+      "country": "Japan",
+      "text": "In 1983 Yamaha launched the first Clavinova, the YP-40, a piano with no strings that made its sound with chips. That same year MIDI arrived, a shared digital language that lets keyboards and computers talk to each other.",
+      "why": "A digital piano never needs tuning, fits in a small flat and can plug into a computer.",
+      "sources": [
+        53,
+        54,
+        0
+      ]
+    },
+    {
+      "year": 2006,
+      "date": "1956–2006",
+      "era": "electric",
+      "art": "earth",
+      "title": "China becomes the piano's workshop",
+      "who": "Pearl River and other Chinese makers",
+      "where": "Guangzhou, China",
+      "country": "China",
+      "text": "Pearl River Piano was founded in Guangzhou in 1956 and can now make more than 100,000 pianos a year, in the world's largest piano factory. By 2006 China was the largest piano-producing country, making more than 370,000 pianos.",
+      "why": "Most new acoustic pianos in the world are now built in China.",
+      "sources": [
+        55,
+        56
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Keyboard instrument",
+      "value": "3rd century BCE",
+      "who": "Ctesibius's hydraulis, Alexandria"
+    },
+    {
+      "label": "Equal temperament worked out accurately",
+      "value": "1584",
+      "who": "Zhu Zaiyu, China"
+    },
+    {
+      "label": "Piano on record",
+      "value": "1700",
+      "who": "Bartolomeo Cristofori, Florence"
+    },
+    {
+      "label": "Oldest surviving piano",
+      "value": "1720",
+      "who": "Cristofori, now at the Met, New York"
+    },
+    {
+      "label": "Double escapement action",
+      "value": "1821",
+      "who": "Sébastien and Pierre Érard"
+    },
+    {
+      "label": "One-piece cast-iron frame",
+      "value": "1825",
+      "who": "Alpheus Babcock, Boston"
+    },
+    {
+      "label": "Piano made in Japan",
+      "value": "1900",
+      "who": "Torakusu Yamaha, Hamamatsu"
+    },
+    {
+      "label": "Clavinova digital piano",
+      "value": "1983",
+      "who": "Yamaha, Japan"
+    }
+  ],
+  "people": [
+    {
+      "name": "Zhu Zaiyu",
+      "life": "1536 – 1611",
+      "role": "Prince, scholar and music theorist",
+      "from": "China",
+      "note": "Calculated twelve equal steps in the octave in 1584."
+    },
+    {
+      "name": "Bartolomeo Cristofori",
+      "life": "1655 – 1731",
+      "role": "Instrument maker",
+      "from": "Padua and Florence, Italy",
+      "note": "Invented the piano for the Medici court around 1700."
+    },
+    {
+      "name": "Gottfried Silbermann",
+      "life": "1683 – 1753",
+      "role": "Organ and keyboard builder",
+      "from": "Germany",
+      "note": "Built Germany's first pianos and won over J.S. Bach."
+    },
+    {
+      "name": "Johann Andreas Stein",
+      "life": "1728 – 1792",
+      "role": "Organ and piano maker",
+      "from": "Augsburg, Germany",
+      "note": "His light action with an escapement delighted Mozart."
+    },
+    {
+      "name": "Nannette Streicher",
+      "life": "1769 – 1833",
+      "role": "Piano maker and pianist",
+      "from": "Augsburg and Vienna",
+      "note": "Ran one of Vienna's leading piano firms and was Beethoven's friend."
+    },
+    {
+      "name": "Sébastien Érard",
+      "life": "1752 – 1831",
+      "role": "Piano and harp maker",
+      "from": "Strasbourg and Paris, France",
+      "note": "Invented the double escapement, the basis of the modern grand action."
+    },
+    {
+      "name": "Alpheus Babcock",
+      "life": "1785 – 1842",
+      "role": "Piano maker",
+      "from": "Massachusetts, USA",
+      "note": "Patented the one-piece cast-iron frame in 1825."
+    },
+    {
+      "name": "Jonas Chickering",
+      "life": "1798 – 1853",
+      "role": "Piano maker",
+      "from": "Boston, USA",
+      "note": "Put a full iron frame into the grand piano in 1843."
+    },
+    {
+      "name": "Clara Schumann",
+      "life": "1819 – 1896",
+      "role": "Concert pianist and composer",
+      "from": "Germany",
+      "note": "Gave concerts for 61 years and made playing from memory the norm."
+    },
+    {
+      "name": "Koichi Kawai",
+      "life": "1886 – 1955",
+      "role": "Piano maker",
+      "from": "Hamamatsu, Japan",
+      "note": "Helped build Japan's first pianos, then founded Kawai in 1927."
+    }
+  ],
+  "series": [
+    {
+      "id": "keys",
+      "title": "How many keys a piano had",
+      "unit": "keys",
+      "log": false,
+      "after": "iron",
+      "caption": "Real instruments over two centuries: the keyboard grew from four octaves to seven and a quarter as music and iron frames demanded more notes.",
+      "points": [
+        {
+          "year": 1700,
+          "value": 49,
+          "label": "Cristofori's piano in the 1700 Medici inventory: four octaves, C to c''' (Wikipedia)"
+        },
+        {
+          "year": 1720,
+          "value": 54,
+          "label": "Cristofori's 1720 piano at the Met: 54 keys (The Met)"
+        },
+        {
+          "year": 1795,
+          "value": 63,
+          "label": "Viennese Walter piano of the mid-1790s: FF to g''', 63 keys (ANU, copy of a Walter)"
+        },
+        {
+          "year": 1817,
+          "value": 73,
+          "label": "Beethoven's Broadwood: six octaves, CC to c'''' (Beethoven Center, SJSU)"
+        },
+        {
+          "year": 1826,
+          "value": 78,
+          "label": "Beethoven's Graf: 6½ octaves, CC to f'''' (Beethoven-Haus Bonn)"
+        },
+        {
+          "year": 1840,
+          "value": 80,
+          "label": "Érard grand, London, c. 1840: 80 notes, CC to g'''' (Met 59.76)"
+        },
+        {
+          "year": 1878,
+          "value": 85,
+          "label": "Steinway's 85-note 'C' grand; 85 keys, A to A, was common then (Wikipedia, M. Steinert)"
+        },
+        {
+          "year": 1888,
+          "value": 88,
+          "label": "Steinway 88-key pianos, late 1880s, A0 to C8 (Classic FM)"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "The word piano is short for pianoforte, from Cristofori's 'harpsichord with soft and loud'.",
+    "A modern piano has 52 white keys and 36 black keys, from A0 to C8.",
+    "A Steinway grand has 12,116 parts, and each key's action has more than 57 of them.",
+    "Beethoven's last piano had four strings for most notes, to help the deaf composer hear it.",
+    "About 365,000 pianos were sold in the US in 1909; in 2020 it was about 21,000."
+  ],
+  "sources": [
+    {
+      "title": "Piano",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Piano"
+    },
+    {
+      "title": "Bartolomeo Cristofori",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bartolomeo_Cristofori"
+    },
+    {
+      "title": "Grand Piano, Bartolomeo Cristofori, 1720 (89.4.1219)",
+      "publisher": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/art/collection/search/501788"
+    },
+    {
+      "title": "The Piano: The Pianofortes of Bartolomeo Cristofori (1655–1731)",
+      "publisher": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/essays/the-piano-the-pianofortes-of-bartolomeo-cristofori-1655-1731"
+    },
+    {
+      "title": "Monochord",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Monochord"
+    },
+    {
+      "title": "Pythagorean tuning",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pythagorean_tuning"
+    },
+    {
+      "title": "Water organ",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Water_organ"
+    },
+    {
+      "title": "Clavichord",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Clavichord"
+    },
+    {
+      "title": "Harpsichord",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Harpsichord"
+    },
+    {
+      "title": "History of the harpsichord",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_harpsichord"
+    },
+    {
+      "title": "Zhu Zaiyu",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zhu_Zaiyu"
+    },
+    {
+      "title": "Scipione Maffei",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Scipione_Maffei"
+    },
+    {
+      "title": "Gottfried Silbermann",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gottfried_Silbermann"
+    },
+    {
+      "title": "The Musical Offering",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Musical_Offering"
+    },
+    {
+      "title": "Johann Andreas Stein",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Johann_Andreas_Stein"
+    },
+    {
+      "title": "Fortepiano",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fortepiano"
+    },
+    {
+      "title": "Anton Walter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Anton_Walter"
+    },
+    {
+      "title": "McNulty (Walter) fortepiano, copy of a mid-1790s Walter",
+      "publisher": "ANU School of Music, Australian National University",
+      "url": "https://music.cass.anu.edu.au/instruments/fortepiano/mcnulty-walter"
+    },
+    {
+      "title": "John Broadwood & Sons",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Broadwood_%26_Sons"
+    },
+    {
+      "title": "Broadwood & Sons Grand Fortepiano",
+      "publisher": "Ira F. Brilliant Center for Beethoven Studies, San José State University",
+      "url": "https://www.sjsu.edu/beethoven/collection/keyboards/broadwood-grand-fortepiano.php"
+    },
+    {
+      "title": "Nannette Streicher",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nannette_Streicher"
+    },
+    {
+      "title": "John Isaac Hawkins",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Isaac_Hawkins"
+    },
+    {
+      "title": "Beethoven and his 1803 Erard",
+      "publisher": "Orpheus Instituut",
+      "url": "https://orpheusinstituut.be/en/beethovenerard"
+    },
+    {
+      "title": "Sébastien Érard",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/S%C3%A9bastien_%C3%89rard"
+    },
+    {
+      "title": "Erard (Richard Burnett Collection)",
+      "publisher": "The Finchcocks Charity",
+      "url": "https://www.finchcocks.co.uk/Richard-Burnett-Collection/file/erard.php"
+    },
+    {
+      "title": "200th Anniversary of Érard's Double Escapement Action",
+      "publisher": "World Piano News",
+      "url": "https://www.worldpianonews.com/new-product/acoustic/sebastien-erard-double-escapement-action/"
+    },
+    {
+      "title": "Alpheus Babcock",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alpheus_Babcock"
+    },
+    {
+      "title": "Alpheus Babcock: Cast Iron Piano Frame",
+      "publisher": "National Inventors Hall of Fame",
+      "url": "https://www.invent.org/inductees/alpheus-babcock"
+    },
+    {
+      "title": "Beethoven's last grand piano (press release)",
+      "publisher": "Beethoven-Haus Bonn",
+      "url": "https://www.beethoven.de/en/press/view/5647219415842816/Beethoven&"
+    },
+    {
+      "title": "Reconstructing Beethoven's Last Piano",
+      "publisher": "Orpheus Instituut",
+      "url": "https://orpheusinstituut.be/en/news-and-events/reconstructing-beethovens-last-piano"
+    },
+    {
+      "title": "Robert Wornum",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Robert_Wornum"
+    },
+    {
+      "title": "Upright piano",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Upright_piano"
+    },
+    {
+      "title": "Clara Schumann",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Clara_Schumann"
+    },
+    {
+      "title": "Jonas Chickering",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jonas_Chickering"
+    },
+    {
+      "title": "Chickering & Sons",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chickering_%26_Sons"
+    },
+    {
+      "title": "Piano pedals",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Piano_pedals"
+    },
+    {
+      "title": "Steinway & Sons",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Steinway_%26_Sons"
+    },
+    {
+      "title": "Facts About Steinway and the Pianos They Build",
+      "publisher": "Steinway & Sons",
+      "url": "https://www.steinwaypianos.com/facts-about-steinway"
+    },
+    {
+      "title": "US Patent 26,532: Grand Piano (Henry Steinway, 20 December 1859)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US26532A/en"
+    },
+    {
+      "title": "Steinway D-274",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Steinway_D-274"
+    },
+    {
+      "title": "Why does a piano have 88 keys?",
+      "publisher": "Classic FM",
+      "url": "https://www.classicfm.com/discover-music/instruments/piano/why-88-keys/"
+    },
+    {
+      "title": "The 85-Key Steinway",
+      "publisher": "M. Steinert & Sons",
+      "url": "https://msteinert.com/2012/07/02/the-85-key-steinway/"
+    },
+    {
+      "title": "Player piano",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Player_piano"
+    },
+    {
+      "title": "Edwin Votey, Inventor of the Pianola (factsheet)",
+      "publisher": "The Pianola Institute",
+      "url": "https://www.pianola.org/factsheets/votey.cfm"
+    },
+    {
+      "title": "Welte-Mignon",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Welte-Mignon"
+    },
+    {
+      "title": "A Brief History of Yamaha Pianos",
+      "publisher": "Yamaha",
+      "url": "https://hub.yamaha.com/pianos/p-history/a-brief-history-of-yamaha-pianos/"
+    },
+    {
+      "title": "Yamaha Corporation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yamaha_Corporation"
+    },
+    {
+      "title": "Kawai Musical Instruments",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kawai_Musical_Instruments"
+    },
+    {
+      "title": "Piano sales down 94% in US",
+      "publisher": "Living Pianos",
+      "url": "https://www.livingpianos.com/articles/piano-sales-down-94-in-us/"
+    },
+    {
+      "title": "Golden Age of the Piano",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Golden_Age_of_the_Piano"
+    },
+    {
+      "title": "Electric piano",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electric_piano"
+    },
+    {
+      "title": "Rhodes piano",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rhodes_piano"
+    },
+    {
+      "title": "Moog synthesizer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Moog_synthesizer"
+    },
+    {
+      "title": "The History of Clavinova: Celebrating its 40th Anniversary",
+      "publisher": "Yamaha Europe",
+      "url": "https://hub.europe.yamaha.com/articles/the-history-of-clavinova---celebrating-its-40th-anniversary"
+    },
+    {
+      "title": "MIDI",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/MIDI"
+    },
+    {
+      "title": "Pearl River Piano Group",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pearl_River_Piano_Group"
+    },
+    {
+      "title": "Pearl River Piano: Building a Chinese brand for the global market",
+      "publisher": "CKGSB Knowledge (Cheung Kong Graduate School of Business)",
+      "url": "https://english.ckgsb.edu.cn/knowledge/article/pearl-river-piano-building-a-chinese-brand-for-the-global-market/"
+    },
+    {
+      "title": "Grand Pianoforte, Érard, London, c. 1840 (Met 59.76)",
+      "publisher": "Wikimedia Commons (Metropolitan Museum of Art object)",
+      "url": "https://commons.wikimedia.org/wiki/Category:Grand_Pianoforte_(ca._1840)_by_%C3%89rard_(French),_made_in_London._MET_59.76"
+    }
+  ]
+}

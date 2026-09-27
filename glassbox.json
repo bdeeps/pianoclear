@@ -1,0 +1,102 @@
+{
+  "slug": "pianoclear",
+  "box": 6,
+  "date": "2026-09-29",
+  "title": "PianoClear",
+  "question": "How does a piano work?",
+  "hook": "Press a key and a chain of levers flings a felt hammer at steel strings pulling with nearly 20 tonnes. Take a grand piano apart in 3D, slow the hammer down 50 times, and play it yourself.",
+  "thumbText": "HOW A PIANO WORKS",
+  "field": "physics",
+  "minutes": 12,
+  "tags": [
+    "piano",
+    "grand piano",
+    "piano action",
+    "escapement",
+    "string vibration",
+    "harmonics",
+    "soundboard",
+    "equal temperament",
+    "pedals",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Hammers, strings and a wooden board",
+      "text": "A piano is a string instrument played with hammers. Each of its 88 keys throws a felt hammer at one, two or three steel strings. About 230 strings pull with nearly 20 tonnes in total, so they are stretched across a cast-iron plate, above a thin spruce soundboard."
+    },
+    {
+      "title": "A chain of levers that lets go",
+      "text": "The key lifts a lever called the wippen, which pushes the hammer up through a jack. Just before the hammer reaches the string, the jack trips on a button and slips away, so the hammer flies free, hits and bounces back. Érard's repetition lever of 1821 lets a note repeat before the key has fully risen."
+    },
+    {
+      "title": "Length, tension and weight set the note",
+      "text": "A string's frequency is f = (1/2L)·√(T/μ): halve the length for one octave up, or pull four times as hard. It also vibrates in halves, thirds and quarters at once, and those overtones shape the sound. Stiff steel makes them slightly sharp."
+    },
+    {
+      "title": "The soundboard makes it loud",
+      "text": "A string is too thin to push much air, so on its own it is nearly silent. It presses on a bridge glued to the soundboard, and the board, over a square metre of spruce, pumps the air. The trade-off: a louder note also fades sooner."
+    },
+    {
+      "title": "88 keys, each 1.0595 times the last",
+      "text": "From A0 at 27.5 Hz to C8 at 4,186 Hz, with A4 tuned to 440 Hz. In equal temperament every semitone is the twelfth root of 2, so twelve steps make exactly one octave. Tuners stretch the octaves a little to match the strings' sharp overtones."
+    },
+    {
+      "title": "Soft, loud, and three pedals",
+      "text": "Press faster and the hammer flies faster: louder, and brighter because the felt touches the string for less time. The right pedal lifts every damper, the left shifts the hammers onto fewer strings, and the middle one holds up only the dampers already raised."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Action",
+      "def": "The set of levers between a key and its hammer and damper. A grand piano has 88 of them."
+    },
+    {
+      "term": "Escapement",
+      "def": "The jack slipping out from under the hammer just before it hits, so the hammer flies free and bounces off the string."
+    },
+    {
+      "term": "Damper",
+      "def": "A felt pad resting on a note's strings that stops them ringing when the key is let go."
+    },
+    {
+      "term": "Overtone",
+      "def": "A higher vibration of a string in 2, 3, 4 or more parts, sounding along with the main note."
+    },
+    {
+      "term": "Soundboard",
+      "def": "A thin, wide sheet of spruce under the strings that turns their vibration into sound."
+    },
+    {
+      "term": "Equal temperament",
+      "def": "Tuning in which every semitone is the same ratio, the twelfth root of 2, so twelve make an octave."
+    },
+    {
+      "term": "Unison",
+      "def": "Two or three strings tuned to the same note and struck together by one hammer."
+    },
+    {
+      "term": "Sustain pedal",
+      "def": "The right pedal, which lifts every damper so notes keep ringing and other strings resonate."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "pianoclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
